@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>Software Engineer</b>, <b>Interface Designer</b>
+  <b>Software Engineer</b> | <b>ML</b> | <b>AI Agents</b> | <b>Flutter</b>
   <!-- <a href="https://github.com/grvt8" style="text-decoration: none; color: inherit; margin-left: 6px"> -->
     <!--<span style="font-weight: 700; margin-left: 6px; text-decoration: none; vertical-align: middle">
       GRVT8
@@ -11,14 +11,14 @@
 ---
 
 ### About
-**SWE** with 3+ yrs XP building ML pipeleines, AI agents, distributed systems, mobile apps, full-stack applications, and scalable systems with a focus on beautiful UX, performance, and innovation.
+**SWE** with 3+ yrs XP building ML pipelines, AI agents, distributed systems, mobile apps, full-stack applications, and scalable backend systems with a focus on beautiful UX, performance, and innovation using Python, Typescript, Dart, Java, C++, Rust & Golang..
 
 ---
 
 ### Current Trajectory  
 - Dabbles in **Lua**, **Go** & **Rust**  
-- Exploring: **ADE's, AI-powered SaaS, DevTools, ML Applications, AI Agents & Workflows**  
-- Interests: **Hackathons, Micro-robotics, Game development, Agentic AI, Operating Systems**  
+- Exploring: **ADE's, ML Pipelines, Systems Engineering, Developer Tools, AI Agents & Workflows**  
+- Interests: **Hackathons, Open-source, Micro-robotics, Game development, Agentic AI, Operating Systems**  
 
 ---
 
@@ -51,6 +51,6 @@ Skills:      UI Design
 
 ### Hackathons
 #### Solo
-- **DSN x BCT Hackathon 3.0:** Agentic LLM system for behavioral user modeling and personalized recommendation.
 - **Nomba x DevCareer Hackathon 2026:** Developer-first virtual account infrastructure layer for downstream product teams.
+- **DSN x BCT Hackathon 3.0:** Agentic LLM system for behavioral user modeling and personalized recommendation.
 
