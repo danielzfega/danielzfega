@@ -39,6 +39,10 @@ Skills:      UI Design
 
 ### Open Source Contributions
 
+- **Navii (https://github.com/uxderrick/navii/pull/5)**
+  - Drop-in deterministic mascot avatars.
+  - Links: https://navii.dev
+    
 - **Zero (https://github.com/Gitlawb/zero/pull/621)**
   - The terminal coding agent that answers to you, your model, your machine, your rules.
   - Links: https://zero.gitlawb.com
