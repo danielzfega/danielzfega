@@ -11,13 +11,14 @@
 ---
 
 ### About
-**SWE** with 3+ yrs XP building ML pipelines, AI agents, distributed systems, mobile apps, full-stack applications, and scalable backend systems with a focus on beautiful UX, performance, and innovation using Python, Typescript, Dart, Java, C++, Rust & Golang..
+**SWE** with 3+ yrs XP building ML pipelines, transformers, distributed systems, AI agents, LLM inference, developer tools, scalable backend systems, mobile apps and 2D platformer games using Python, Typescript, Dart, Java, C++, Rust & Golang.
+
 
 ---
 
 ### Current Trajectory  
-- Dabbles in **Lua**, **Go** & **Rust**  
-- Exploring: **ADE's, ML Pipelines, Systems Engineering, Developer Tools, AI Agents & Workflows**  
+- Dabbles in **C++**, **Go** & **Rust**  
+- Exploring: **ADE's, Agentic harnesses, ML Pipelines, Systems Engineering, Developer Tools, AI Agents & Workflows**  
 - Interests: **Hackathons, Open-source, Micro-robotics, Game development, Agentic AI, Operating Systems**  
 
 ---
@@ -39,6 +40,10 @@ Skills:      UI Design
 
 ### Open Source Contributions
 
+- **Tellstone (https://github.com/Saxy/Tellstone/pull/21)**
+  - Tellstone is a high-performance in-memory database and drop-in replacement for Redis.
+  - Links: https://tellstone.io
+    
 - **Navii (https://github.com/uxderrick/navii/pull/5)**
   - Drop-in deterministic mascot avatars.
   - Links: https://navii.dev
