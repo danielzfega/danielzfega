@@ -40,7 +40,7 @@ Skills:      UI Design
 
 ### Open Source Contributions
 
-- **Tellstone (https://github.com/Saxy/Tellstone/pull/21)**
+- **Tellstone [https://github.com/Saxy/Tellstone/pull/21, https://github.com/Saxy/Tellstone/pull/24]**
   - Tellstone is a high-performance in-memory database and drop-in replacement for Redis.
   - Links: https://tellstone.io
     
