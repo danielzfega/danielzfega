@@ -31,9 +31,9 @@
 ### Tech Stack  
 ```bash
 Languages:   JavaScript | TypeScript | Python | Dart | Java | Swift | Go | Rust | ArkTs | Luau | C# | C++
-Frameworks:  React | Next.js | Astro | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Dioxus | Tauri | Vue | TanStack 
+Frameworks:  React | Next.js | Astro | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | GPUI | Tauri | Dioxus | Vue | TanStack 
 Databases:   PostgreSQL | MongoDB | MySql | Supabase | Firebase  
-Cloud:       AWS | GCP | Supabase | Firebase
+Cloud:       AWS | GCP | Azure | Supabase | Firebase
 Skills:      UI Design
 ```
 ---
