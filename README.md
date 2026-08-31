@@ -30,6 +30,8 @@ Skills:      UI Design
 
 ### Open Source Contributions
 
+- **T3 Code (https://github.com/pingdotgg/t3code/pull/8910)** : The open source control plane for coding agents.
+
 - **Blobatar (https://github.com/Alain00/blobatar/pull/33)** : Deterministic geometric blobatars from any string.
 
 - **Tellstone [https://github.com/Saxy/Tellstone/pull/21, https://github.com/Saxy/Tellstone/pull/24]** : High-performance in-memory database and drop-in replacement for Redis.
