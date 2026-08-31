@@ -30,7 +30,7 @@ Skills:      UI Design
 
 ### Open Source Contributions
 
-- **Blobatar (https://github.com/Alain00/blobatar)** : Deterministic geometric blobatars from any string.
+- **Blobatar (https://github.com/Alain00/blobatar/pull/33)** : Deterministic geometric blobatars from any string.
 
 - **Tellstone [https://github.com/Saxy/Tellstone/pull/21, https://github.com/Saxy/Tellstone/pull/24]** : High-performance in-memory database and drop-in replacement for Redis.
 
